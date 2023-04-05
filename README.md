@@ -40,4 +40,4 @@ Run the query that filters out the view ratings with average price of greater th
 
 # Conclusion
 
-I completed this challenge on Google Collab.  I was a bit surprised the parquet DataFrame was slower but perhaps it has to do with this being a small dataset and I imagine parquet doing better on large datasets with more fields.  The SQL was relatively straightforward and the chaching did improve runtime from 1.77 seconds to .73 seconds. 
+I completed this challenge on Google Colab.  I was a bit surprised the parquet DataFrame was slower but perhaps it has to do with this being a small dataset and I imagine parquet doing better on large datasets with more fields.  The SQL was relatively straightforward and the chaching did improve runtime from 1.77 seconds to .73 seconds. 
